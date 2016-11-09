@@ -1,0 +1,12 @@
+Qty,Value,Device,Package,Parts,Description,MF,MPN,Aliexpress or ebay link
+1,330,resistor 1/8W,,R3,,,,
+2,10M,resistor 1/8W,,"R1, R2",in v1-0,,,
+1,10K,resistor 1/8W,,R2,in v1-1,,,
+1,10M,resistor 1/8W,,R1,in v1-1,,,
+2,100nF,ceramic capacitor,100mil grid,"C2, C3",,,,
+1,atmega328p,ATMEL microcontroller,28pin DIL,U1,,,,
+1,nrf24l01+,Nordic radio,SMD module,NRF24,,,,
+1,led,3mm LED,,LED1,,,,
+1,jumper,100mil 90 degree breakable male header,,JP2,,,,
+1,socket,breakable round female header 2.54mm spacing,,,,,,
+1,pcb,EAGLE file available,,,,,,
