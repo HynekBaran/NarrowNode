@@ -169,7 +169,10 @@
 <wire x1="0" y1="0.3175" x2="2.54" y2="0.3175" width="0.254" layer="21"/>
 <wire x1="0" y1="2.8575" x2="2.54" y2="2.8575" width="0.254" layer="21"/>
 <wire x1="0" y1="0.3175" x2="0" y2="2.8575" width="0.254" layer="21"/>
-<text x="46.482" y="9.652" size="0.4064" layer="16" rot="MR270">HYNEK.BARAN@MATH.SLU.CZ</text>
+<text x="46.482" y="9.652" size="0.8128" layer="26" rot="MR270">HYNEK.BARAN
+@MATH.SLU.CZ</text>
+<text x="43.434" y="10.414" size="0.6096" layer="26" rot="MR270">github.com/
+/HynekBaran/NarrowNode</text>
 </plain>
 <libraries>
 <library name="GertSanders">
@@ -2152,4 +2155,10 @@ Please make sure your boards conform to these design rules.</description>
 </signals>
 </board>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
