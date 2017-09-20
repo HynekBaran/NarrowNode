@@ -1,9 +1,0 @@
-CERN Open Hardware Licence v1.2 
-
-Not sure what to put here.
-If you change anything, just le me know (so I can learn from it).
-
-Version 1-0. Board can wake up on 2 pins (D2/D3). LED connected to D8.
-
-Version 1-1: added I2C pins via jumpers, lost D3 in the proces. LED connected to D6 (which is PWM capable).
-
